@@ -14,22 +14,22 @@ For further details, view [Github's documentation](https://docs.github.com/en/gi
 ## Storing the token as an ENVIRONMENT VARIABLE
 - Open **Command prompt**.
 - Type the following: 
-  ```ps
-  setx GIT_TOKEN your-token
-  ```
+```ps
+setx GIT_TOKEN your-token
+```
 ## Verifying the ENVIRONMENT VARIABLE
 - **Restart** the Command Prompt.
 - Type the following:
-  ```ps
-  echo %GIT_TOKEN%
-  ```
+```ps
+echo %GIT_TOKEN%
+```
 - If it doesn't display your token value, make sure your restarted your Command Prompt.
 
 ## Installing Packages
 - Install the following package dependencies using pip:
-  ```ps
-  pip install requests
-  ```
+```ps
+pip install requests
+```
 
 ## Download and run the scripts
 Click the link of your choice and press **Ctrl+S** to download the script.
