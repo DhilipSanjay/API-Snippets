@@ -1,4 +1,4 @@
 # API-Snippets
 ### Exploring APIs of various sites
 
-- [Github APIs](https://developer.github.com/v3)
+- [Github APIs](https://github.com/DhilipSanjay/API-Snippets/tree/master/Github%20APIs)
