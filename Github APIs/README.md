@@ -33,8 +33,8 @@ pip install requests
 
 ## Download and run the scripts
 Click the link of your choice and press **Ctrl+S** to download the script.
-1) [Creating a new repo](https://raw.githubusercontent.com/DhilipSanjay/API-Snippets/master/Github%20APIs/createRepo.py)
-2) [View the contents of your repo](https://raw.githubusercontent.com/DhilipSanjay/API-Snippets/master/Github%20APIs/viewContents.py)
+1) [Creating a new repo](https://raw.githubusercontent.com/DhilipSanjay/API-Snippets/master/Github%20APIs/REST%20API/createRepo.py)
+2) [View the contents of your repo](https://raw.githubusercontent.com/DhilipSanjay/API-Snippets/master/Github%20APIs/REST%20API/viewContents.py)
 
 
 Happy coding!
