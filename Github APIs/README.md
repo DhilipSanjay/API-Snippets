@@ -23,7 +23,7 @@ setx GIT_TOKEN your-token
 ```ps
 echo %GIT_TOKEN%
 ```
-- If it doesn't display your token value, make sure your restarted your Command Prompt.
+- If it doesn't display your token value, make sure that you restarted your Command Prompt.
 
 ## Installing Packages
 - Install the following package dependencies using pip:

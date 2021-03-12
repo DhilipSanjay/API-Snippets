@@ -1,6 +1,10 @@
 import requests
 import os
 
+print("=========================")
+print("Creating a new Repository")
+print("=========================")
+
 userName = input("Enter you github username:")
 repoName = input("Enter the name of the repository you want to create:")
 token = os.getenv('GIT_TOKEN')
@@ -25,8 +29,8 @@ while True:
 
 query_url = "https://api.github.com/user/repos"
 headers = {"authorization" : f"token {token}"}
-data = {"name" : f"{repoName}",
-        "description" : f"{description}",
+data = {"name" : repoName,
+        "description" : description,
         "private": private}
 
 
